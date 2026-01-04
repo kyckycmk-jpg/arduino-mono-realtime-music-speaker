@@ -19,3 +19,5 @@ This produces a raw, square-like audio signal that reflects the transitions of t
 - ## X (Twitter)
 Follow updates and experiments here:  
 https://x.com/mmmmmm999i56897
+
+![Circuit Diagram](circuit/arduino_mono.png)
